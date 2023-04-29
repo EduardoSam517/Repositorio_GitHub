@@ -1,2 +1,1 @@
-# Repositorio_GitHub
-Este repositorio es de prueba 
+Prueba para ver como clonar un repositorio de prueba en mi escritorio 
